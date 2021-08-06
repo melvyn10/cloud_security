@@ -4,7 +4,7 @@ Project 1 - cloud security
 
 The files in this repository were used to configure the network depicted below.
 
-![image](https://github.com/melvyn10/cloud_security/blob/main/Screenshot 2021-08-05 202536.png)
+![image](https://github.com/melvyn10/cloud_security/blob/main/Screenshot2021-08-05-202536.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select individual file may be used to install only certain pieces of it, such as Filebeat.
 
